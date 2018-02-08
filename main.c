@@ -10,3 +10,5 @@ Di, 24. Okt 2017 16:35:08
 Di, 24. Okt 2017 16:35:18
 Di,  6. Feb 2018 08:06:18
 stabilization for release candidate 1.2.3
+stabilization for release candidate 1.2.4
+stabilization for release candidate 1.2.4 still fixing bugs
